@@ -1,0 +1,782 @@
+=== INICIO DEL SERVIDOR: 2025-03-19 19:37:54 ===
+[2025-03-19 19:38:09] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:38:09
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:38:09
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:38:09 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:38:16] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:38:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:38:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:38:16 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:41:38 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:42:27 ===
+[2025-03-19 19:42:31] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:42:31
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:42:31
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:42:31 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:43:28 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:43:49 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:44:10 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:44:15 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:44:20 ===
+[2025-03-19 19:45:16] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:45:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:45:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:45:16 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:46:25 ===
+[2025-03-19 19:46:30] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:46:30
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:46:30
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:46:30 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:46:55] Nueva conexión desde: 25.37.107.227
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:47:00
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:47:00
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:46:55 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:02 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:11 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:12 ===
+[2025-03-19 19:47:16] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:47:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:47:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:47:16 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:23 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:37 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:38 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:38 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:38 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:39 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:39 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:39 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:39 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:39 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:39 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 19:47:40 ===
+[2025-03-19 19:47:49] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:47:49
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:47:49
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:47:49 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:48:06 ===
+[2025-03-19 19:48:32] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:32
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:32
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:48:32 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:48:49 ===
+[2025-03-19 19:48:53] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:53
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:53
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:48:53 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:49:17 ===
+[2025-03-19 19:49:29] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:49:29
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:49:29
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:49:29 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:49:39 ===
+[2025-03-19 19:50:26] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:26
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:26
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:50:26 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:50:50 ===
+[2025-03-19 19:50:53] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:53
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:53
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:50:53 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:50:59] Nueva conexión desde: 25.37.107.227
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:51:05
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:51:05
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:50:59 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:52:44 ===
+[2025-03-19 19:53:35] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:42
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:42
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:53:35 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:53:41] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:48
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:48
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:53:41 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:53:47 ===
+[2025-03-19 19:53:48] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:55
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:48:55
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:53:48 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:54:42] Nueva conexión desde: 25.37.107.227
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:54:47
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:54:47
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:54:42 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:54:50 ===
+[2025-03-19 19:54:51] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:49:57
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:49:57
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:54:51 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:54:55] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:02
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:02
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:54:55 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:55:02] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:09
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:09
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:55:02 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:55:06] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:13
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:13
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:55:06 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:55:08] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:15
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:15
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:55:08 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:55:09] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:50:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:55:09 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:55:14] Nueva conexión desde: 25.37.107.227
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:55:19
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:55:19
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:55:14 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:55:34] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:55:34
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:55:34
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:55:34 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:56:35 ===
+[2025-03-19 19:56:36] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:51:42
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:51:42
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:56:36 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:57:07] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:52:14
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:52:14
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:57:07 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 19:59:12 ===
+[2025-03-19 19:59:14] Nueva conexión desde: 25.37.107.227
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:59:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:59:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:59:14 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:59:16] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:54:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:54:16
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:59:16 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:59:19] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:54:26
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:54:26
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:59:19 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:59:23] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:59:23
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:59:23
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:59:23 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 19:59:26] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:59:26
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 19:59:26
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 19:59:26 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 20:05:07 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 20:05:10 ===
+[2025-03-19 20:05:13] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:05:13
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>IP Pública: 186.96.178.138 <br><br>IP Privada: 25.36.58.229 <br><br>Ubicación: Santa María Atzompa, Oaxaca, Mexico <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:05:13
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 20:05:13 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 20:05:33] Nueva conexión desde: 25.37.107.227
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:05:38
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>IP Pública: 186.96.178.138 <br><br>IP Privada: 25.36.58.229 <br><br>Ubicación: Santa María Atzompa, Oaxaca, Mexico <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:05:38
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 20:05:33 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 20:06:47 ===
+[2025-03-19 20:07:16] Nueva conexión desde: 25.37.107.227
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:07:19
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>IP Pública: 186.96.178.138 <br><br>IP Privada: 25.36.58.229 <br><br>Ubicación: Santa María Atzompa, Oaxaca, Mexico <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = ulise
+<br><br>Como cliente tengo la IP: 25.37.107.227
+<br><br>Como cliente tengo el nombre en la red de: ML
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:07:19
+<br><br>Como cliente tengo el sistema operativo: Windows NT ML 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 20:07:16 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-19 20:37:34 ===
+=== INICIO DEL SERVIDOR: 2025-03-19 20:44:20 ===
+[2025-03-19 20:44:41] Nueva conexión desde: 25.36.58.229
+DATOS RECIBIDOS:
+Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:44:40
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>IP Pública: 186.96.178.138 <br><br>IP Privada: 25.36.58.229 <br><br>Ubicación: Santa María Atzompa, Oaxaca, Mexico <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*****************
+<br><br>Soy el cliente = calvo
+<br><br>Como cliente tengo la IP: 25.36.58.229
+<br><br>Como cliente tengo el nombre en la red de: Mi_nena
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:44:40
+<br><br>Como cliente tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 20:44:41 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+[2025-03-19 20:44:47] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:39:53
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>IP Pública: 186.96.178.138 <br><br>IP Privada: 25.36.58.229 <br><br>Ubicación: Santa María Atzompa, Oaxaca, Mexico <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-19 20:39:53
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-19 20:44:47 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
+=== INICIO DEL SERVIDOR: 2025-03-20 19:25:48 ===
+=== INICIO DEL SERVIDOR: 2025-03-20 19:27:29 ===
+[2025-03-20 19:27:34] Nueva conexión desde: 25.36.59.181
+DATOS RECIBIDOS:
+Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-20 19:22:35
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br>
+RESPUESTA ENVIADA:
+Conectando***************** <br><br>Soy el servidor = 25.36.58.229 <br><br>Como servidor tengo el nombre en la red: Mi_nena <br><br>IP Pública: 186.96.178.138 <br><br>IP Privada: 25.36.58.229 <br><br>Ubicación: Santa María Atzompa, Oaxaca, Mexico <br><br>A través del socket recibí los datos de cliente que son********************** <br><br>Conectando*******
+<br><br>Soy el cliente = users
+<br><br>Como cliente tengo la IP: 25.36.59.181
+<br><br>Como cliente tengo el nombre en la red de: NET-NET
+<br><br>La fecha y hora que obtengo como cliente es: 2025-03-20 19:22:35
+<br><br>Como cliente tengo el sistema operativo: Windows NT NET-NET 10.0 build 19045 (Windows 10) AMD64
+<br><br>Como cliente tengo los siguientes servicios de PHP activos: Core, bcmath, calendar, ctype, date, filter, hash, iconv, json, SPL, pcre, random, readline, Reflection, session, standard, mysqlnd, tokenizer, zlib, libxml, dom, PDO, bz2, SimpleXML, xml, xmlreader, xmlwriter, apache2handler, openssl, curl, fileinfo, gettext, mbstring, exif, mysqli, pdo_mysql, pdo_sqlite, soap, sockets, Phar, ftp
+<br><br> <br><br>La fecha y hora que obtengo como servidor es: 2025-03-20 19:27:34 <br><br>Como servidor tengo el sistema operativo: Windows NT MI_NENA 10.0 build 26100 (Windows 11) AMD64
